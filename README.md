@@ -14,4 +14,3 @@ By scrolling down and typing a date, city, state, country, or shape int to the "
 
 ## Summary
 The final page is an astetically pleasing html site that can be used to find UFO observations. The users can filter the information based on date, city, state, country, and shape. Currently, the user is typing the information into the filter. An improvement for a future version of the site would be to have a drop down list, so the site is not relying on the user's ability to spell the variable they would like to find. A second suggestion would be to search for an API, or do some web scraping in order to keep the data fresh and relevant rather than having a static data set. Overall, the page is looking good and should be a fun addition to for the UFO enthusiast gathering. 
-In a summary statement, describe one drawback of this new design and two recommendations for further development
