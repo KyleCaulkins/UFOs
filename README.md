@@ -8,8 +8,7 @@ The front end of the web page can be used by opening the index.html file in a br
 
 ![Page_Overview](/Resources/overview.png)
 
-By scrolling down and typing a date, city, state, country, or shape int to the "Filter Search" a user can filter the data table based on given criteria. The example below uses "fresno" in the city box and once the enter key is pressed, the data was filtered to only disply the UFO sighting in fresno. 
-
+By scrolling down and typing a date, city, state, country, or shape into the "Filter Search" a user can filter the data table based on given criteria. Multiple filter criteria, or just a single filter can be used for the search. The example below uses "fresno" in the city box and once the enter key is pressed, the data was filtered to only disply the UFO sighting in fresno. 
 ![Filtered_Example](/Resources/filtered.png)
 
 ## Summary
